@@ -1,1 +1,0 @@
-http://localhost/prestashop/admin609bfvszx/index.php?controller=AdminLogin&token=c6494de3fdbff413a14b9ea4babc62b8
